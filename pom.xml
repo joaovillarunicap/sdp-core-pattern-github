@@ -11,6 +11,7 @@
 	<groupId>br.com.akross</groupId>
 	<artifactId>sdp-core-pattern-github</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
+	<packaging>jar</packaging>
 	<name>sdp-core-pattern-github</name>
 	<description>sdp-core-pattern-github</description>
 	<properties>
@@ -69,9 +70,10 @@
 			<plugin>
 				<groupId>org.apache.maven.plugins</groupId>
 				<artifactId>maven-deploy-plugin</artifactId>
-				<version>3.0.0</version>
+				<version>3.8.1</version>
 				<configuration>
-					<altDeploymentRepository>internal.repo::default::file://${project.build.directory}/mvn-repo</altDeploymentRepository>
+					<source>11</source>
+					<target>11</target>
 				</configuration>
 			</plugin>
 		</plugins>

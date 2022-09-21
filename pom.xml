@@ -54,9 +54,9 @@
 
 	<distributionManagement>
 		<repository>
-			<id>internal.repo</id>
-			<name>Github Repo</name>
-			<url>https://github.com/joaovillarunicap/sdp-core-pattern-github/mvn-repo</url>
+			<id>github</id>
+			<name>GitHub joaovillarunicap Apache Maven Packages</name>
+			<url>https://maven.pkg.github.com/joaovillarunicap/sdp-core-pattern-github</url>
 		</repository>
 	</distributionManagement>
 

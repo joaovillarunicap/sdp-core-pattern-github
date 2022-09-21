@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: br.com.akross.sdpcorepattern.SdpCorePatternGithubApplicationTests
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 2.526 s - in br.com.akross.sdpcorepattern.SdpCorePatternGithubApplicationTests
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 5.171 s - in br.com.akross.sdpcorepattern.SdpCorePatternGithubApplicationTests

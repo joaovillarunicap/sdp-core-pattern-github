@@ -56,7 +56,7 @@
 		<repository>
 			<id>internal.repo</id>
 			<name>Github Repo</name>
-			<url>https://github.com/joaovillarunicap/mvn-repo/master</url>
+			<url>https://github.com/joaovillarunicap/sdp-core-pattern-github/mvn-repo</url>
 		</repository>
 	</distributionManagement>
 

@@ -1,0 +1,16 @@
+<settings>
+    <servers>
+        <server>
+            <id>github</id>
+            <configuration>
+                <httpHeaders>
+                    <property>
+                        <name>Authorization</name>
+                        <!-- Base64-encoded "bitbucketuser:password" -->
+                        <value>Basic am9hb3ZpbGxhcmI6Mnh4ZG9zc3V4eDI=</value>
+                    </property>
+                </httpHeaders>
+            </configuration>
+        </server>
+    </servers>
+</settings>
